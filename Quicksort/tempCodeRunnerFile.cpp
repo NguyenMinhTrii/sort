@@ -1,0 +1,2 @@
+
+    XuatMang(arr,n);
